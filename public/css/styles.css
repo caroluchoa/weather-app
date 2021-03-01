@@ -53,12 +53,20 @@ h1 {
   padding-right: 20px;
 }
 
-.portrait {
-  width: 30%;
+.sub-content {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.portrait {
+  width: 25%;
   margin-top:15%;
   margin-left: 50px;
+}
+
+.about-text-box {
+  width: 50%;
+  margin-top:16%;
 }
 
 .inner {
